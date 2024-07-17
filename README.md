@@ -1,3 +1,4 @@
+<img alt="banner" display="block" width="480" height="268" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ2djBtMHZoem4wejV3dGl4aXhzcmx1eWMwNWZoa2Rqd3oycGRyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F3ZLuf0nLlPvuPlPC4/giphy.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Younis</h1>
 <h3 align="center">Front-End Developer (HTML/CSS) | Passionate Problem Solver | Building Creative Websites</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d9cfcaf5b1f6bb6a18958f19fe010c0f3c2e9fbaa5db12be0f4cacce740eb4d4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30392f63362f32392f30396336323930336265656261333336646339646137366562356339613130372e676966">
