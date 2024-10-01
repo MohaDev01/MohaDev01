@@ -12,6 +12,4 @@ I am a driven and committed undergraduate computer science student with a passio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaDev01&layout=compact&theme=radical)
 
-## 📫 Connect with Me
-
 Feel free to explore my repositories and reach out for collaboration or just to connect!
