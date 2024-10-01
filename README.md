@@ -6,11 +6,11 @@ I am a driven and committed undergraduate computer science student with a passio
 
 ## 🚀 GitHub Stats
 
-![MohaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohaDev&show_icons=true&theme=radical)
+![MohaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohaDev01&show_icons=true&theme=radical)
 
 ## 🛠️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaDev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaDev01&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
