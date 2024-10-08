@@ -10,8 +10,6 @@
 
 <br>
 
-![MohaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohaDev01&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohaDev01&layout=compact&theme=radical)
 
 Feel free to explore my repositories and reach out for collaboration or just to connect!
