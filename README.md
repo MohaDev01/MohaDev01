@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=36&duration=2500&color=F0FFFF&vCenter=true&width=435&lines=Front-End+Developer;Prompt+Engineer;Low-Code+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=2500&color=F0FFFF&vCenter=true&width=435&lines=Front-End+Developer;Prompt+Engineer;Low-Code+Developer)](https://git.io/typing-svg)
 
 
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
