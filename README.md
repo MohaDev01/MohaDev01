@@ -4,6 +4,8 @@
 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohadev01&theme=highcontrast)](https://git.io/streak-stats)
+
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
 💻 Continuously learning **React** and improving my skills.
