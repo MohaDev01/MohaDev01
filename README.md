@@ -1,5 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=2500&color=F0FFFF&vCenter=true&width=435&lines=Front-End+Developer;Prompt+Engineer;Low-Code+Developer)](https://git.io/typing-svg)
 
+</div>
 
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
