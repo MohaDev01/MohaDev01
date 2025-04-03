@@ -1,3 +1,5 @@
+<div style="background-color: #f0ffff; padding: 20px;">
+
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
 💻 Passionate about **Front-End Development**, continuously learning **React** and improving my skills.
@@ -31,3 +33,6 @@ Feel free to explore my repositories and reach out for **collaboration**... or j
 
 
 **...Have a great DAY!**
+
+
+</div>
