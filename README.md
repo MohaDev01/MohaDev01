@@ -21,7 +21,7 @@
 Feel free to explore my repositories and reach out for **collaboration**... or just to **connect**! 
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohadev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohadev)
 
 
 **...Have a great DAY!**
