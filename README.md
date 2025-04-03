@@ -23,5 +23,11 @@ Feel free to explore my repositories and reach out for **collaboration**... or j
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohadev)
 
+---
+
+**You can give me a *boost* by Donating 🤞**
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev01) 
+
 
 **...Have a great DAY!**
