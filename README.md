@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1000&color=F0FFFF&vCenter=true&width=435&lines=Front-End+Developer;Prompt+Engineer;No-Code+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2500&color=F0FFFF&vCenter=true&width=435&lines=Front-End+Developer;Prompt+Engineer;No-Code+Developer)](https://git.io/typing-svg)
 
 
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
-💻 Passionate about **Front-End Development**, continuously learning **React** and improving my skills.
+💻 Continuously learning **React** and improving my skills.
 
 ⚽🎮 Professional **Footballer** and **Gamer**.
 
