@@ -20,6 +20,8 @@
 
 Feel free to explore my repositories and reach out for **collaboration**... or just to **connect**! 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohadev)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohadev)
+
 
 **...Have a great DAY!**
