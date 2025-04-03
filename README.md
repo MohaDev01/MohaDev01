@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mohamedabdulrahmanyounis/)
 
-👨‍🎓 Undergrad **Computer Science** student at **Middle East University, Jordan**.
+👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
 💻 Passionate about **Front-End Development**, continuously learning new libraries like **React** and improving my skills.
 
