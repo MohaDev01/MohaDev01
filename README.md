@@ -19,8 +19,8 @@
 
 <div align="center">
   
-### 🙋‍♂️ Support
-**You can give me a boost by Donating 🤞**\
-<br/>[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&color=9198A1&center=true&vCenter=true&height=25&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8FSupport;%E2%98%95Buy+a+me+a+Coffee)](https://git.io/typing-svg)
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev01)
 
 </div>
