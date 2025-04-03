@@ -1,6 +1,6 @@
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
-💻 Passionate about **Front-End Development**, continuously learning new libraries like **React** and improving my skills.
+💻 Passionate about **Front-End Development**, continuously learning **React** and improving my skills.
 
 ⚽🎮 Professional **Footballer** and **Gamer**.
 
