@@ -6,24 +6,20 @@
 
 ---
 
-## Teck Stack  
+***Teck Stack***
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)
 
-
-### Learning
+***Learning***
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,ts,next)](https://skillicons.dev)
 
-
-#### Programming Languages Learned in Uni
+**Programming Languages Learned in Uni**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,python)](https://skillicons.dev)
 
-Feel free to explore my repositories and reach out for collaboration... or just to connect! 
+Feel free to explore my repositories and reach out for **collaboration**... or just to **connect**! 
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohadev)
-
-[![My Skills](https://skillicons.dev/icons?i=kf)](https://skillicons.dev)
 
 **...Have a great DAY!**
