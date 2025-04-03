@@ -1,5 +1,3 @@
-<div style="background-color: #f0ffff; padding: 20px;">
-
 👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.
 
 💻 Passionate about **Front-End Development**, continuously learning **React** and improving my skills.
@@ -27,12 +25,9 @@ Feel free to explore my repositories and reach out for **collaboration**... or j
 
 ---
 
-**You can give me a ***boost*** by Donating 🤞**
+## ☕ Support Me
+**You can give me a boost by Donating 🤞**
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev01) 
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev)
 
 **...Have a great DAY!**
-
-
-</div>
