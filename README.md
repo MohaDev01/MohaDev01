@@ -17,6 +17,10 @@
 ><br/>![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohadev)
 
-> ### 🙋‍♂️ Support
-> **You can give me a boost by Donating 🤞**\
-><br/>[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev01)
+<div align="center">
+  
+### 🙋‍♂️ Support
+**You can give me a boost by Donating 🤞**\
+<br/>[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohayounis) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mohadev01)
+
+</div>
