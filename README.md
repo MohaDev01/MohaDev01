@@ -22,3 +22,9 @@
 ><br/><a href="https://ko-fi.com/Z8Z31COJGC">
     <img style="width: 170px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/Support%20me%203.gif" alt="Ko-fi">
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohadev01/mohadev01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohadev01/mohadev01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohadev01/mohadev01/output/github-snake.svg" />
+</picture>
