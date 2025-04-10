@@ -20,5 +20,5 @@
     <img style="width: 80px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/KitsunaOkami.gif" alt="Ko-fi">
 </a>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2500&pause=200&color=9198A1&center=false&vCenter=false&width=170&height=35&lines=Support;Buy+a+me+a+Coffee)](https://git.io/typing-svg)\
 ><br/><a href="https://ko-fi.com/Z8Z31COJGC">
-    <img style="width: 180px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/Support%20me%203.gif" alt="Ko-fi">
+    <img style="width: 260px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/Support%20me%202.gif" alt="Ko-fi">
 </a>
