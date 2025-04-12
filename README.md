@@ -9,8 +9,8 @@
 >⚽🎮 Professional **Footballer** and **Gamer**.\
 ><br/>***Teck Stack***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)\
-><br/>***Learning***
-><br/><br/>[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,next)](https://skillicons.dev)\
+><br/>***Currently Learning***
+><br/><br/>[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,next)](https://skillicons.dev)\
 ><br/>**Programming Languages Learned in Uni**
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,python)](https://skillicons.dev)\
 ><br/>Feel free to explore my repositories and reach out for **Collaboration**... or just to **Connect**!\
