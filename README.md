@@ -19,9 +19,3 @@
 ><br/><br/><a href="https://ko-fi.com/Z8Z31COJGC">
     <img style="width: 80px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/Sticker%20logo.gif" alt="Ko-fi">
 </a>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2500&pause=200&color=9198A1&center=false&vCenter=false&width=170&height=35&lines=Support;Buy+a+me+a+Coffee)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohadev01/mohadev01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohadev01/mohadev01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohadev01/mohadev01/output/github-snake.svg" />
-</picture>
