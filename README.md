@@ -9,11 +9,11 @@
 >⚽🎮 Competitive **Footballer** and **Gamer**.\
 ><br/>✮ ***Certificates***
 ><br/><br/><a href="https://www.credly.com/badges/db31fe9a-140b-4226-b4ba-afa291ab77ca/public_url"><img style="width:100px; height:auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Badges/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Professional Certificate Credly Badge"><a/>\
-><br/>₊⊹ ***Tech Stack***
+><br/>🛠️ ***Tech Stack***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)\
 ><br/>⚡︎ ***Currently Learning***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=vite,ts,tailwind,next)](https://skillicons.dev)\
-><br/>₊⊹ ***Programming Languages Learned in Uni***
+><br/>📚 ***Programming Languages Learned in Uni***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,python)](https://skillicons.dev)\
 ><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration**... or just to **Connect**!\
 ><br/>[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)](https://x.com/mohadev01)
