@@ -4,8 +4,8 @@
 
 </div>
 
->👨‍🎓 6th sem **Computer Science** student at **Middle East University, Jordan**.\
->💻 Continuously learning **React** and improving my skills.\
+>👨‍🎓 6th Sem **CS** student @ **Middle East University, Jordan**.\
+>🧠 Hunting **trends**. Experimenting with **tools**. Evolving **daily**.\
 >⚽🎮 Competitive **Footballer** and **Gamer**.\
 ><br/>✮ ***Certificates***
 ><br/><br/><a href="https://www.credly.com/badges/db31fe9a-140b-4226-b4ba-afa291ab77ca/public_url"><img style="width:100px; height:auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Badges/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer Professional Certificate Credly Badge"><a/>\
