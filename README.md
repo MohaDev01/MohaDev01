@@ -15,7 +15,11 @@
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=vite,ts,tailwind,next)](https://skillicons.dev)\
 ><br/>📚 ***Programming Languages Learned in Uni***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,php,python)](https://skillicons.dev)\
-><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration**... or just to **Connect**!\
+><br/>✨ ***Vibe Coding Stack***
+><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-FF6B35?style=plastic&logo=bolt01)](https://bolt.new)\
+><br/>🔥 ***Vibe-Coded Projects***
+><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white)](https://marksy.netlify.app)\
+><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration** or just to **Connect**!\
 ><br/>[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)](https://x.com/mohadev01)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohadev)\
 ><br/><br/><a href="https://ko-fi.com/Z8Z31COJGC">
