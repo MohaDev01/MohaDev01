@@ -13,7 +13,7 @@
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)\
 ><br/>⚡︎ ***Learning***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=vite,ts,tailwind,next)](https://skillicons.dev)\
-><br/>📚 ***Programming Languages Learned in Uni***
+><br/>📚 ***Programming Languages Applied in Uni***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,php,python)](https://skillicons.dev)\
 ><br/>✨ ***Vibe Coding Stack***
 ><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-FF6B35?style=plastic&logo=bolt01)](https://bolt.new)\
