@@ -20,8 +20,8 @@
 ><br/>🔥 ***Vibe-Coded Projects***
 ><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white)](https://marksy.netlify.app)\
 ><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration** or just to **Connect**!\
-><br/>[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/mohadev01)](https://x.com/mohadev01)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mohadev)\
+><br/>[![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0)](https://x.com/mohadev01)
+[![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow)](https://www.linkedin.com/in/mohadev)\
 ><br/><br/><a href="https://ko-fi.com/Z8Z31COJGC">
     <img style="width: 80px; height: auto;" src="https://raw.githubusercontent.com/mohadev01-resources/Icons/refs/heads/main/Ko-fi-Gifs/Sticker%20logo.gif" alt="Ko-fi">
 </a>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=2500&pause=200&color=9198A1&center=false&vCenter=false&width=170&height=35&lines=Support;Buy+a+me+a+Coffee)](https://git.io/typing-svg)
