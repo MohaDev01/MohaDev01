@@ -16,7 +16,7 @@
 ><br/>📚 ***Programming Languages Applied in Uni***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,php,python)](https://skillicons.dev)\
 ><br/>✨ ***Vibe Coding Stack***
-><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-FF6B35?style=plastic&logo=bolt01)](https://bolt.new)\
+><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01)](https://bolt.new)\
 ><br/>🔥 ***Vibe-Coded Projects***
 ><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white)](https://marksy.netlify.app)\
 ><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration** or just to **Connect**!\
