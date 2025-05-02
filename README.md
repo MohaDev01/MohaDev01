@@ -21,7 +21,9 @@
 >[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01)](https://lovable.dev)\
 ><br/>🔥 ***Vibe-Coded Projects***
 ><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white)](https://marksy.netlify.app)
->[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app)\
+>[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app)
+
+>[!IMPORTANT]
 ><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration** or just to **Connect**!\
 ><br/>[![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0)](https://x.com/mohadev01)
 [![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow)](https://www.linkedin.com/in/mohadev)\
