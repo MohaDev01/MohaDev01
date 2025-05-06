@@ -14,8 +14,8 @@
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vercel,netlify)](https://skillicons.dev)\
 ><br/>⚡︎ ***Learning***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=vite,ts,tailwind,next)](https://skillicons.dev)\
-><br/>📚 ***Programming Languages Applied in Uni***
-><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,php,python)](https://skillicons.dev)\
+><br/>📚 ***Programming Languages & Tools Applied in Uni***
+><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,mysql,cs,js,php,python)](https://skillicons.dev)\
 ><br/>✨ ***Vibe Coding Stack***
 ><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01)](https://bolt.new)
 >[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01)](https://lovable.dev)
