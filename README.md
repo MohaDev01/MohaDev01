@@ -18,10 +18,12 @@
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,php,python)](https://skillicons.dev)\
 ><br/>✨ ***Vibe Coding Stack***
 ><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01)](https://bolt.new)
->[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01)](https://lovable.dev)\
+>[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01)](https://lovable.dev)
+>[![v0.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/v0.dev-FFFFFF?style=plastic&logo=v01)](https://v0.dev)\
 ><br/>🔥 ***Vibe-Coded Projects***
 ><br/><br/>[![Marksy (Social)](https://custom-icon-badges.demolab.com/badge/Marksy-1A56DB?style=social&logo=marksy&logoColor=white)](https://marksy.netlify.app)
->[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app)\
+>[![FER (Social)](https://custom-icon-badges.demolab.com/badge/FER-1A56DB?style=social&logo=fer1&logoColor=white)](https://fer.lovable.app)
+>[![AICurated (Social)](https://custom-icon-badges.demolab.com/badge/AICurated-1A56DB?style=social&logo=aicurated&logoColor=white)](https://aicurated.vercel.app)\
 ><br/>🙋‍♂ Feel free to explore my repositories and reach out for **Collaboration** or just to **Connect**!\
 ><br/>[![X Follow (Social)](https://custom-icon-badges.demolab.com/badge/Follow-1D9BF0?style=social&logo=x-follow&logoColor=1D9BF0)](https://x.com/mohadev01)
 [![LinkedIn Follow](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=social&logo=linkedin-follow)](https://www.linkedin.com/in/mohadev)\
