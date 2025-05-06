@@ -4,7 +4,7 @@
 
 </div>
 
->![Visitors (plastic)](https://komarev.com/ghpvc/?username=mohadev01&label=Visitors&color=000000&style=plastic)\
+>![Visitors (Plastic)](https://komarev.com/ghpvc/?username=mohadev01&label=Visitors&color=000000&style=plastic)\
 ><br/>👨‍🎓 6th Sem **CS** student @ **Middle East University, Jordan**.\
 >🧠 Exploring **trends**. Experimenting with **tools**. Evolving **daily**.\
 >⚽🎮 Competitive **Footballer** and **Gamer**.\
