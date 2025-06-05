@@ -15,16 +15,7 @@
 ><br/>⚡︎ ***Learning***
 ><br/><br/>[![My Skills](https://skillicons.dev/icons?i=vite,ts,tailwind,next)](https://skillicons.dev)\
 ><br/>📚 ***Programming Languages & Tools Applied in Uni***
-><br/><br/><div>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-    <code><img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-    </div>\
+><br/><br/>[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,js,php,python,mysql,vscode,visualstudio,anaconda)](https://skillicons.dev)\
 ><br/>✨ ***Vibe Coding Stack***
 ><br/><br/>[![Bolt.new (Plastic)](https://custom-icon-badges.demolab.com/badge/Bolt.new-000000?style=plastic&logo=bolt01)](https://bolt.new)
 >[![Lovable.dev (Plastic)](https://custom-icon-badges.demolab.com/badge/Lovable.dev-FFFFFF?style=plastic&logo=lovable01)](https://lovable.dev)
